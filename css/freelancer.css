@@ -22,7 +22,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-    color: #18BC9C;
+    color: #194754;
 }
 
 h1,
@@ -62,17 +62,17 @@ hr.star-light {
 }
 
 hr.star-light:after {
-    background-color: #18BC9C;
+    background-color: #194754;
     color: white;
 }
 
 hr.star-primary {
-    border-color: #2C3E50;
+    border-color: #d492a0;
 }
 
 hr.star-primary:after {
     background-color: white;
-    color: #2C3E50;
+    color: #d492a0;
 }
 
 .img-centered {
@@ -81,7 +81,7 @@ hr.star-primary:after {
 
 header {
     text-align: center;
-    background: #18BC9C;
+    background: #194754;
     color: white;
 }
 
@@ -122,7 +122,7 @@ header .intro-text .skills {
 }
 
 .navbar-custom {
-    background: #2C3E50;
+    background: #d492a0;
     font-family: "Trajan Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-transform: uppercase;
     font-weight: 700;
@@ -149,7 +149,7 @@ header .intro-text .skills {
 }
 
 .navbar-custom .navbar-nav li a:hover {
-    color: #18BC9C;
+    color: #194754;
 }
 
 .navbar-custom .navbar-nav li a:focus,
@@ -159,14 +159,14 @@ header .intro-text .skills {
 
 .navbar-custom .navbar-nav li.active a {
     color: white;
-    background: #18BC9C;
+    background: #194754;
 }
 
 .navbar-custom .navbar-nav li.active a:hover,
 .navbar-custom .navbar-nav li.active a:focus,
 .navbar-custom .navbar-nav li.active a:active {
     color: white;
-    background: #18BC9C;
+    background: #194754;
 }
 
 .navbar-custom .navbar-toggle {
@@ -178,9 +178,9 @@ header .intro-text .skills {
 
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
-    background-color: #18BC9C;
+    background-color: #194754;
     color: white;
-    border-color: #18BC9C;
+    border-color: #194754;
 }
 
 @media (min-width: 768px) {
@@ -214,7 +214,7 @@ section h2 {
 }
 
 section.success {
-    background: #18BC9C;
+    background: #194754;
     color: white;
 }
 
@@ -333,7 +333,7 @@ section.success {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #18BC9C;
+    color: #194754;
 }
 
 form .row:first-child .floating-label-form-group {
@@ -350,7 +350,7 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 50px;
-    background-color: #2C3E50;
+    background-color: #d492a0;
 }
 
 footer .footer-col {
@@ -375,15 +375,15 @@ footer .footer-below {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-    color: #18BC9C;
+    color: #194754;
     background: white;
     border: solid 2px white;
 }
 
 .btn-primary {
     color: white;
-    background-color: #2C3E50;
-    border-color: #2C3E50;
+    background-color: #d492a0;
+    border-color: #d492a0;
     font-weight: 700;
 }
 
@@ -418,19 +418,19 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-    background-color: #2C3E50;
-    border-color: #2C3E50;
+    background-color: #d492a0;
+    border-color: #d492a0;
 }
 
 .btn-primary .badge {
-    color: #2C3E50;
+    color: #d492a0;
     background-color: white;
 }
 
 .btn-success {
     color: white;
-    background-color: #18BC9C;
-    border-color: #18BC9C;
+    background-color: #194754;
+    border-color: #194754;
     font-weight: 700;
 }
 
@@ -465,12 +465,12 @@ fieldset[disabled] .btn-success:active,
 .btn-success.disabled.active,
 .btn-success[disabled].active,
 fieldset[disabled] .btn-success.active {
-    background-color: #18BC9C;
-    border-color: #18BC9C;
+    background-color: #194754;
+    border-color: #194754;
 }
 
 .btn-success .badge {
-    color: #18BC9C;
+    color: #194754;
     background-color: white;
 }
 
@@ -544,7 +544,7 @@ fieldset[disabled] .btn-success.active {
     height: 75px;
     width: 1px;
     margin-left: 35px;
-    background-color: #2C3E50;
+    background-color: #d492a0;
     transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     /* IE 9 */
@@ -556,7 +556,7 @@ fieldset[disabled] .btn-success.active {
 .portfolio-modal .close-modal .lr .rl {
     height: 75px;
     width: 1px;
-    background-color: #2C3E50;
+    background-color: #d492a0;
     transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     /* IE 9 */
@@ -588,7 +588,7 @@ fieldset[disabled] .btn-success.active {
     position: absolute;
     left: 0px;
     top: 0px;
-    background: #18BC9C;
+    background: #194754;
     outline: 0;
     transition: top 0.1s ease-in, background 0.5s linear;
 }
